@@ -1,0 +1,23 @@
+{
+  "name": "dietrying",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nsylke/DieTrying.git"
+  },
+  "author": "Tyler0130",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsylke/DieTrying/issues"
+  },
+  "homepage": "https://github.com/nsylke/DieTrying#readme"
+}
